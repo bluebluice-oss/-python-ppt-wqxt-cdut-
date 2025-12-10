@@ -4,7 +4,7 @@ import os
 from urllib.parse import urlparse
 
 # 1. 把你之前保存的完整 html 文件路径改这里
-html_file = r"D:\graduate1\szfx\20251031_2\saved_page.html"   # ← 改这里
+html_file = r"D:\xxxxx\xxxx\xxxxx\saved_page.html"   # ← 改这里
 
 with open(html_file, 'r', encoding='utf-8') as f:
     html = f.read()
